@@ -1559,7 +1559,6 @@ html:not(.mobile) .slide.video .background[style] {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url("../assets/svg/video-icon.svg") no-repeat;
   background-position: center center;
   transition: 0.5s;
 }
