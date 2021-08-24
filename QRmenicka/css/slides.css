@@ -1552,16 +1552,7 @@ html:not(.mobile) .slide.video .background[style] {
 .videoThumbnail.rounded {
   border-radius: 6px;
 }
-.videoThumbnail:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-position: center center;
-  transition: 0.5s;
-}
+
 .videoThumbnail:not(.noTint):hover:after {
   background-color: rgba(0, 0, 0, 0.15);
 }
